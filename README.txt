@@ -56,7 +56,7 @@ Getting Started
 Clone the repository:
 
 Bash
-git clone https://github.com/YOUR-USERNAME/increatine-android.git
+git clone https://github.com/Sopieeee/INCREATINE.git
 Open the project in Android Studio.
 
 Let Gradle sync and download the required dependencies.
