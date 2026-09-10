@@ -88,3 +88,11 @@ Google Fonts are loaded over the network when available, with system-font fallba
 
 License
 This project is currently published without a license. All rights reserved unless otherwise specified.
+
+<img width="627" height="1280" alt="image" src="https://github.com/user-attachments/assets/e5e34bf4-5961-4ab3-a2ad-640d1434a566" />
+
+<img width="629" height="1280" alt="image" src="https://github.com/user-attachments/assets/9e57132d-066a-4a0e-b32a-22b20119bff9" />
+
+<img width="628" height="1280" alt="image" src="https://github.com/user-attachments/assets/3c426951-df75-4a43-bdb3-ffd31bf8dca8" />
+
+
